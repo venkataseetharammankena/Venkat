@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I'm ... from Hyderabad <br><br>- 🔭 I’m currently pursuing MBA ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Seetharam  from Hyderabad <br><br>- 🔭 I’m currently pursuing MBA ...<br>- 📚 I'm currently learning new technologies<br>- ⚡ In my free time I I love to solve puzzles</p>
 
 ###
 
